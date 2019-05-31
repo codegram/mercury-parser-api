@@ -20,8 +20,8 @@ provider:
   # from ~/.aws/credentials, you can do so here
   profile: default
   # you can overwrite defaults here
-  #  stage: dev
-  #  region: us-east-1
+  stage: prod
+  region: eu-west-1
 
 custom:
   webpack:
